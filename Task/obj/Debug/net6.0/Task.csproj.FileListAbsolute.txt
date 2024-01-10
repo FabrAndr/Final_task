@@ -1,0 +1,15 @@
+A:\Documents\Projects\Final_task\Task\bin\Debug\net6.0\Task.exe
+A:\Documents\Projects\Final_task\Task\bin\Debug\net6.0\Task.deps.json
+A:\Documents\Projects\Final_task\Task\bin\Debug\net6.0\Task.runtimeconfig.json
+A:\Documents\Projects\Final_task\Task\bin\Debug\net6.0\Task.dll
+A:\Documents\Projects\Final_task\Task\bin\Debug\net6.0\Task.pdb
+A:\Documents\Projects\Final_task\Task\obj\Debug\net6.0\Task.csproj.AssemblyReference.cache
+A:\Documents\Projects\Final_task\Task\obj\Debug\net6.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+A:\Documents\Projects\Final_task\Task\obj\Debug\net6.0\Task.AssemblyInfoInputs.cache
+A:\Documents\Projects\Final_task\Task\obj\Debug\net6.0\Task.AssemblyInfo.cs
+A:\Documents\Projects\Final_task\Task\obj\Debug\net6.0\Task.csproj.CoreCompileInputs.cache
+A:\Documents\Projects\Final_task\Task\obj\Debug\net6.0\Task.dll
+A:\Documents\Projects\Final_task\Task\obj\Debug\net6.0\refint\Task.dll
+A:\Documents\Projects\Final_task\Task\obj\Debug\net6.0\Task.pdb
+A:\Documents\Projects\Final_task\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+A:\Documents\Projects\Final_task\Task\obj\Debug\net6.0\ref\Task.dll
