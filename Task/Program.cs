@@ -34,7 +34,7 @@ string[] st = sort(column);
 
 showstring(st);
 
-//we need smt to delete empty spaces
+//we need smt to delete empty spaces, but we have to delete empty spaces at the end of massive, last plurals of cells from the massive
 
 
 
